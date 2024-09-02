@@ -1,4 +1,14 @@
+## GROUP MEMBERS
+### 201400290 
+### 202322248
+### 202322249
+### 202322250
+### 202322252
+### 202100168
+
 **2-BIT BINARY ADDER**
+
+## PROJECT OVERVIEW
 
 2-bit binary adder is a mini-project that adds only 2-bit binary numbers and produce a 3-bit binary number as an output.It provides a solution that is more accurate than when adding manually.
 
